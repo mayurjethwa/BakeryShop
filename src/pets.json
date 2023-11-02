@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Apple Pies",
+    "picture": "images/Apple_Pies.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 1,
+    "name": "Cinnamon Rolls",
+    "picture": "images/cinnamon_rolls.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 2,
+    "name": "Pain au Chocolat",
+    "picture": "images/Pain_au_Chocolat.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 3,
+    "name": "Croissant",
+    "picture": "images/Croissant.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 4,
+    "name": "Blackberry Mousse Tart",
+    "picture": "images/Blackberry_Mousse_Tart.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 5,
+    "name": "Cheesecake",
+    "picture": "images/cheesecake.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 6,
+    "name": "Pancake",
+    "picture": "images/Pancake.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 7,
+    "name": "Choux",
+    "picture": "images/Choux.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 8,
+    "name": "Waffle",
+    "picture": "images/waffle.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 9,
+    "name": "Cupcake",
+    "picture": "images/cupcake.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 10,
+    "name": "Cookie",
+    "picture": "images/cookie.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 11,
+    "name": "Madeleine",
+    "picture": "images/madeleine.jpg",
+    "price": "5$"
+  },
+  {
+    "id": 12,
+    "name": "Trifle",
+    "picture": "images/trifle.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 13,
+    "name": "Lemon Tart",
+    "picture": "images/lemon_tart.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 14,
+    "name": "Strawberry Shortcake",
+    "picture": "images/Strawberry_Shortcake.jpeg",
+    "price": "5$"
+  },
+  {
+    "id": 15,
+    "name": "Strawberry Cream Tart",
+    "picture": "images/Strawberry_Cream_Tart.jpeg",
+    "price": "5$"
+  }
+]
